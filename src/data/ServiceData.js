@@ -1,0 +1,80 @@
+export const serviceDetails = {
+  "x-ray": {
+    title: "Digital Dental X-Rays",
+    image: "https://images.unsplash.com/photo-1598256989800-fe5f95da9787?auto=format&fit=crop&q=80&w=1000",
+    content: "Our clinic uses advanced digital radiography to capture high-quality images of your teeth and jaw. This technology reduces radiation exposure by up to 90% compared to traditional X-rays and provides instant results for faster diagnosis.",
+    benefits: ["Low radiation exposure", "Instant high-resolution imaging", "Accurate diagnosis of hidden issues"],
+  },
+  "teeth-cleaning": {
+    title: "Professional Teeth Cleaning & Polishing",
+    image: "https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?auto=format&fit=crop&q=80&w=1000",
+    content: "Professional scaling and polishing remove stubborn tartar (calculus) and plaque that regular brushing cannot reach. We ensure a thorough cleaning of the gum line to prevent periodontal diseases and keep your breath fresh.",
+    benefits: ["Prevents gum disease & cavities", "Removes coffee and tea stains", "Enhances overall oral hygiene"],
+  },
+  "cosmetic-procedures": {
+    title: "Cosmetic Dentistry & Smile Design",
+    image: "https://images.unsplash.com/photo-1559595500-e1525675e446?auto=format&fit=crop&q=80&w=1000",
+    content: "Smile makeovers involve a combination of treatments like bonding, contouring, and alignment to give you the perfect aesthetic look. We focus on facial symmetry and tooth proportions to create a smile that boosts your confidence.",
+    benefits: ["Corrects chipped or gapped teeth", "Improves facial aesthetics", "Personalized treatment plans"],
+  },
+  "root-canals": {
+    title: "Painless Root Canal Treatment",
+    image: "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?auto=format&fit=crop&q=80&w=1000",
+    content: "Root canal therapy at KP Dental Care is performed using state-of-the-art rotary endodontics. This procedure saves a severely decayed or infected tooth by removing the damaged pulp, cleaning the canal, and sealing it.",
+    benefits: ["Saves your natural tooth", "Relieves acute dental pain", "Prevents the spread of infection"],
+  },
+  "dental-implants": {
+    title: "Modern Dental Implants",
+    image: "https://images.unsplash.com/photo-1609840114035-3c981b782dfe?auto=format&fit=crop&q=80&w=1000",
+    content: "Dental implants are the gold standard for replacing missing teeth. They act as artificial roots that fuse with your bone, providing a stable foundation for a crown that looks, feels, and functions just like a natural tooth.",
+    benefits: ["Permanent solution for tooth loss", "Prevents bone loss in the jaw", "No impact on adjacent teeth"],
+  },
+  "orthodontic-treatment": {
+    title: "Orthodontic Care (Braces & Aligners)",
+    image: "https://images.unsplash.com/photo-1597328290883-50c5787b7c7e?auto=format&fit=crop&q=80&w=1000",
+    content: "Whether you prefer traditional metal braces, ceramic braces, or modern clear aligners, we help straighten misaligned teeth and correct bite issues. Achieve a functional and beautiful alignment at any age.",
+    benefits: ["Corrects bite and alignment", "Improves speech and chewing", "Boosts long-term dental health"],
+  },
+  "dentures-bridges": {
+    title: "Customized Dentures & Bridges",
+    image: "https://images.unsplash.com/photo-1516062423079-7ca13cdc7f5a?auto=format&fit=crop&q=80&w=1000",
+    content: "Restore your smile's function with our high-quality dentures and fixed bridges. We use premium materials to ensure a comfortable fit and a natural appearance, allowing you to eat and speak with ease.",
+    benefits: ["Restores chewing ability", "Supports facial structure", "Natural-looking results"],
+  },
+  "extractions": {
+    title: "Safe & Comfortable Extractions",
+    image: "https://images.unsplash.com/photo-1594132470722-19e34c9c1b75?auto=format&fit=crop&q=80&w=1000",
+    content: "When a tooth cannot be saved due to severe damage or wisdom tooth impaction, our experts perform safe and painless extractions. We prioritize patient comfort and provide detailed post-operative care.",
+    benefits: ["Prevents crowding and infection", "Relieves wisdom tooth discomfort", "Quick and safe procedure"],
+  },
+  "fillings": {
+    title: "Tooth-Colored Dental Fillings",
+    image: "https://images.unsplash.com/photo-1468493858157-0da44aaf1d13?auto=format&fit=crop&q=80&w=1000",
+    content: "Say goodbye to silver fillings. We use tooth-colored composite resins that bond directly to your tooth structure, providing a durable and invisible restoration for cavities or small fractures.",
+    benefits: ["Mercury-free materials", "Blends perfectly with natural teeth", "Strengthens damaged enamel"],
+  },
+  "mouth-guards": {
+    title: "Night Guards & Sports Guards",
+    image: "https://images.unsplash.com/photo-1551076805-e1869033e561?auto=format&fit=crop&q=80&w=1000",
+    content: "Protect your teeth from grinding (bruxism) or sports injuries with our custom-fabricated mouth guards. Unlike over-the-counter options, our guards provide a precise fit and maximum protection.",
+    benefits: ["Prevents tooth wear and cracks", "Reduces jaw pain (TMJ)", "High impact protection for athletes"],
+  },
+  "teeth-whitening": {
+    title: "Advanced Teeth Whitening",
+    image: "https://images.unsplash.com/photo-1552345386-240106062927?auto=format&fit=crop&q=80&w=1000",
+    content: "Get a brighter, whiter smile in just one visit. Our professional-grade whitening treatments remove deep stains caused by food, age, or smoking, providing results that are much more effective than home kits.",
+    benefits: ["Visible results in 60 minutes", "Safe for tooth enamel", "Long-lasting brightness"],
+  },
+  "veneers-crowns": {
+    title: "Porcelain Veneers & Crowns",
+    image: "https://images.unsplash.com/photo-1629909613654-28e377c37b09?auto=format&fit=crop&q=80&w=1000",
+    content: "Porcelain veneers and crowns provide the ultimate protection and aesthetic upgrade for damaged or discolored teeth. These custom-made ceramic shells are highly durable and resistant to future staining.",
+    benefits: ["Full smile transformation", "Extreme durability", "Natural translucent finish"],
+  },
+  "paediatrics": {
+    title: "Pediatric Dentistry (Kids Care)",
+    image: "https://images.unsplash.com/photo-1502476609241-1506540c4961?auto=format&fit=crop&q=80&w=1000",
+    content: "We make dental visits fun for children. Our specialized pediatric care focuses on preventive treatments like sealants and fluoride applications, ensuring your child develops healthy oral habits from a young age.",
+    benefits: ["Child-friendly environment", "Early cavity prevention", "Focus on habit development"],
+  },
+};
